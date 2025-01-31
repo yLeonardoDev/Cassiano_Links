@@ -320,7 +320,7 @@ a {
 .img-tread {
     width: 100%;
     height: 100px;
-    background-image: url(/assets/image/img-links/hobbyTenis.jpeg);
+    background-image: url('assets/image/img-links/hobbyTenis.jpeg');
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
