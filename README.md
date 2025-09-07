@@ -49,27 +49,51 @@ Contribuições são sempre bem-vindas! Se você tem alguma sugestão para melho
 # File Tree: MEUS-LINKS2
 
 ├── 📁 Projeto
+
 ├── 📁 assets/
+
 │   ├── 📁 css/
-│   │   └── 🎨 style-bio.css
+
+    └── 🎨 style-bio.css
+
 │   ├── 📁 image/
-│   │   └── 📁 img-links/
-│   │       ├── 🖼️ CAPA.png
-│   │       ├── 🖼️ Favicon.jpg
-│   │       ├── 🖼️ Leo-perfil.jpg
-│   │       ├── 🖼️ Leo.jpg
-│   │       ├── 🖼️ consultoria-dev-freelancer-white-icon.png
-│   │       ├── 🖼️ contrato-dev-freelancer-icon.png
-│   │       ├── 🖼️ ebook-img-white-rm-developer-ricardomoura-dev.png
-│   │       ├── 🖼️ excel-icon.png
-│   │       ├── 🖼️ excel-icon2.png
-│   │       ├── 🖼️ hobby.jpeg
-│   │       ├── 🖼️ hobby.png
-│   │       ├── 🖼️ icon-Cheshire.png
-│   │       ├── 🖼️ icon-Cheshire2.png
-│   │       ├── 🖼️ smile-icon.png
-│   │       └── 🖼️ web-white-icon.png
-│   └── 📁 js/
-│       └── 📄 animationLoading.js
+
+    └── 📁 img-links/
+
+              ├── 🖼️ CAPA.png
+
+              ├── 🖼️ Favicon.jpg
+
+              ├── 🖼️ Leo-perfil.jpg
+
+              ├── 🖼️ Leo.jpg
+
+              ├── 🖼️ consultoria-dev-freelancer-white-icon.png
+
+              ├── 🖼️ contrato-dev-freelancer-icon.png
+
+              ├── 🖼️    ebook-img-white-rm-developer-ricardomoura-dev.png
+
+              ├── 🖼️ excel-icon.png
+
+              ├── 🖼️ excel-icon2.png
+
+              ├── 🖼️ hobby.jpeg
+
+              ├── 🖼️ hobby.png
+
+              ├── 🖼️ icon-Cheshire.png
+
+              ├── 🖼️ icon-Cheshire2.png
+
+              ├── 🖼️ smile-icon.png
+
+              └── 🖼️ web-white-icon.png
+
+│  |  └── 📁 js/
+
+           └── 📄 animationLoading.js
+
 ├── 📖 README.md
+
 └── 🌐 index.html
