@@ -46,7 +46,6 @@ Contribuições são sempre bem-vindas! Se você tem alguma sugestão para melho
 
 ## Estrutura do projeto
 
-# File Tree: MEUS-LINKS2
 
 ├── 📁 Projeto
 
@@ -72,7 +71,7 @@ Contribuições são sempre bem-vindas! Se você tem alguma sugestão para melho
 
               ├── 🖼️ contrato-dev-freelancer-icon.png
 
-              ├── 🖼️    ebook-img-white-rm-developer-ricardomoura-dev.png
+              ├── 🖼️ ebook-img-white-rm-developer-ricardomoura-dev.png
 
               ├── 🖼️ excel-icon.png
 
