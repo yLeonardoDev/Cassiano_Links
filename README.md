@@ -38,9 +38,38 @@ Contribuições são sempre bem-vindas! Se você tem alguma sugestão para melho
 
 ## Minhas Redes Sociais & Link para acessar Projeto
 
-- 💠[Perfil no GitHub](https://github.com/yLeonardo99)
+- 💠[Perfil no GitHub](https://github.com/yLeonardoDev)
 - 💠[LinkedIn](https://www.linkedin.com/in/leonardo-cassiano-435b62257/)
-- 💠[Instagram](https://www.instagram.com/p1csleo99/)
+- 💠[Instagram](https://www.instagram.com/cassiano_og/)
 
-- 🌐[Link do Projeto](https://yleonardo99.github.io/MEUS-LINKS2/)
+- 🌐[Link do Projeto](https://yleonardoDev.github.io/MEUS-LINKS2/)
 
+## Estrutura do projeto
+
+# File Tree: MEUS-LINKS2
+
+├── 📁 Projeto
+├── 📁 assets/
+│   ├── 📁 css/
+│   │   └── 🎨 style-bio.css
+│   ├── 📁 image/
+│   │   └── 📁 img-links/
+│   │       ├── 🖼️ CAPA.png
+│   │       ├── 🖼️ Favicon.jpg
+│   │       ├── 🖼️ Leo-perfil.jpg
+│   │       ├── 🖼️ Leo.jpg
+│   │       ├── 🖼️ consultoria-dev-freelancer-white-icon.png
+│   │       ├── 🖼️ contrato-dev-freelancer-icon.png
+│   │       ├── 🖼️ ebook-img-white-rm-developer-ricardomoura-dev.png
+│   │       ├── 🖼️ excel-icon.png
+│   │       ├── 🖼️ excel-icon2.png
+│   │       ├── 🖼️ hobby.jpeg
+│   │       ├── 🖼️ hobby.png
+│   │       ├── 🖼️ icon-Cheshire.png
+│   │       ├── 🖼️ icon-Cheshire2.png
+│   │       ├── 🖼️ smile-icon.png
+│   │       └── 🖼️ web-white-icon.png
+│   └── 📁 js/
+│       └── 📄 animationLoading.js
+├── 📖 README.md
+└── 🌐 index.html

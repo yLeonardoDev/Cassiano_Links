@@ -54,9 +54,10 @@ a {
 
 
 :root {
+    
     /* #002f2c --- 016CFE */
-    --color-green: #002f2c;
-    --color-black: #101010;
+    --color-green: #35045680;
+    --color-black: #171313;
     --color-white: #fafafa;
 }
 
@@ -264,15 +265,6 @@ a {
     /*CENTRO DIREITO*/
 }
 /* ---------------  END EFEITO FIGMA -------------- */
-
-.skills-icons .fa-wix:hover {
-    color: #ff5722;
-}
-
-.skills-icons .fa-wordpress:hover {
-    color: #21759b;
-}
-
 
 /****************** WIDGET 3 */
 .widget3 {
