@@ -54,7 +54,7 @@ a {
 
 
 :root {
-    
+
     /* #002f2c --- 016CFE */
     --color-green: #35045680;
     --color-black: #171313;
@@ -231,23 +231,23 @@ a {
 }
 
 .skills-icons .devicon-mysql-plain:hover {
-    color: #6dc7fc; 
+    color: #6dc7fc;
 }
 
 .skills-icons .fa-file-excel:hover {
-    color: #217346; 
+    color: #217346;
 }
 
 /* ---------- EFEITO FIGMA CADA CIRCURLO -------------------- */
 
 .figma-icon:hover .circle-1 {
     fill: #F24D18;
-        /*SUPERIOR ESQUERDA*/
+    /*SUPERIOR ESQUERDA*/
 }
 
 .figma-icon:hover .circle-2 {
     fill: #FF7362;
-        /*SUPERIOR DIREITA*/
+    /*SUPERIOR DIREITA*/
 }
 
 .figma-icon:hover .circle-3 {
@@ -264,6 +264,7 @@ a {
     fill: #13BDFE;
     /*CENTRO DIREITO*/
 }
+
 /* ---------------  END EFEITO FIGMA -------------- */
 
 /****************** WIDGET 3 */
@@ -350,37 +351,68 @@ a {
     color: var(--color-white);
 }
 
-.redes-sociais .tiktok:hover i {
-    color: #443b3b;
-    transition: color 0.3s;
+/* Cores fixas para mobile first */
+
+.redes-sociais .tiktok i {
+    color: #fffdfd;
 }
 
-.redes-sociais .instagram:hover i {
-    background: linear-gradient(45deg, #f9ce34, #ee2a7b, #6228d7); 
-    -webkit-background-clip: text; /* Para compatibilidade com WebKit (Chrome, Safari) */
-    -webkit-text-fill-color: transparent; 
-    background-clip: text;
-    transition: background 0.3s;
-}
-
-.redes-sociais .github:hover i {
-    background: linear-gradient(45deg, #6a00f4, #d400ff); 
+.redes-sociais .instagram i {
+    background: linear-gradient(45deg, #f9ce34, #ee2a7b, #6228d7);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; 
-    background-clip: text; 
-    transition: background 0.3s;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
 }
 
-
-.redes-sociais .linkedin:hover i {
-    background: linear-gradient(45deg, #00C6FF, #0077B5, #004182); 
-    -webkit-background-clip: text; 
-    background-clip: text; 
+.redes-sociais .github i {
+    background: linear-gradient(45deg, #6a00f4, #d400ff);
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    transition: background 0.3s ease-in-out;
+    background-clip: text;
+}
+
+.redes-sociais .linkedin i {
+    background: linear-gradient(45deg, #00C6FF, #0077B5, #004182);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Hover apenas para desktop */
+
+@media (hover: hover) and (pointer: fine) {
+    .redes-sociais .tiktok:hover i {
+        color: #ffffff;
+        transition: color 0.3s;
+    }
+
+    .redes-sociais .instagram:hover i {
+        background: linear-gradient(45deg, #ffffff, #ffffff, #ffffff);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        transition: background 0.3s;
+    }
+
+    .redes-sociais .github:hover i {
+        background: linear-gradient(45deg, #ffffff, #ffffff);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        transition: background 0.3s;
+    }
+
+    .redes-sociais .linkedin:hover i {
+        background: linear-gradient(45deg, #ffffff, #ffffff, #ffffff);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        transition: background 0.3s ease-in-out;
+    }
 }
 
 /****************** WIDGET 4 */
+
 .widget4 {
     width: 100%;
     height: 16%;
